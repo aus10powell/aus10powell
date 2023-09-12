@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Currently Working
+I'm currently working on a open-source computer vision project to monitor fish populations 
+
+### Statistical Data
+![aus10powell's Github Stats](https://github-readme-stats.vercel.app/api?username=aus10powell&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aus10powell&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
+
+
 <!--
 **aus10powell/aus10powell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
