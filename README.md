@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Currently Working
+## Current 
 I'm currently working on a open-source computer vision project to monitor fish populations 
 
 ### Statistical Data
