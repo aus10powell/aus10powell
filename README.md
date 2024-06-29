@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Current 
-I'm currently working an applied scientist
+I'm currently working an applied data scientist
 
 ### Statistical Data
 ![aus10powell's Github Stats](https://github-readme-stats.vercel.app/api?username=aus10powell&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
